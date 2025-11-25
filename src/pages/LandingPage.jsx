@@ -11,10 +11,10 @@ import Prizes from '../components/Prizes.jsx'
 const LandingPage = () => {
     return (
         <div>
-            <Navbar />
+            {/* <Navbar /> */}
             <HeroSection />
-            <AboutSection />
-            <Prizes/>
+            {/* <AboutSection /> */}
+            <Prizes />
             <Tracks />
             <Timeline />
             <Faqs />
